@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">🚀 Selam, ben Kral!</h1>
 
-<!--
-**akbltenes/akbltenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   Full-Stack Developer | 🎓 Bilgisayar Mühendisliği Son Sınıf <br>
+   AI Enthusiast |  Sürekli Öğrenen ve Üreten
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Hakkımda
+
+Merhaba! Ben **Muhammed Enes AKBULUT**, Bilgisayar Mühendisliği son sınıf öğrencisiyim.  
+Yazılım dünyasına tutkuyla bağlı, sürekli gelişmeyi hedefleyen bir yazılımcıyım.
+
+**Full-Stack Developer** olarak projeler geliştiriyor ve yazılım süreçlerinin her aşamasında aktif rol alıyorum.  
+Backend tarafında **Spring Boot** ile ölçeklenebilir ve güvenli servisler geliştirirken,  
+frontend tarafında ise **React.js** ile modern ve kullanıcı dostu arayüzler tasarlıyorum.
+
+Kod yazmaktan keyif alan, her zaman yeni teknolojileri öğrenmeye ve uygulamaya açık biriyim .
+
+
+Son zamanlarda **Yapay Zeka** konularına merak sardım ve bu alanda projeler geliştirerek kendimi sürekli güncelliyorum.  
+Öğrenmeye açık, üretmeyi seven ve teknolojiyi yakından takip eden bir yazılımcıyım. 
+
+---
+
+ Uzmanlık Alanlarım
+- 💻 **Backend**: Java & Spring Boot, RESTful API, Microservices  
+- 🖥️ **Frontend**: React.js, Tailwind CSS, modern UI/UX  
+- 🗄️ **Veritabanı**: MySQL, PostgreSQL
+
+---
+
+ Şu An Üzerinde Çalıştıklarım
+- ⚙️ **RentACar** projesinde Spring Boot kullanarak güçlü bir backend geliştiriyorum.
+- 🤖 AI odaklı küçük projeler ve deneyler yapıyorum (ML & NLP çalışmaları).
+- 💡 Bitirme projesi için AI destekli ya da real-time sistem fikirleri araştırıyorum.
+
+---
+
+##  Kullandığım Teknolojiler
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+---
+
+ GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seninKullaniciAdin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seninKullaniciAdin&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+ Bana Ulaş
+- LinkedIn: https://www.linkedin.com/in/enes-akbulut/
+- Mail: akbltenes638@gmail.@gmail.com
+
+---
+
+
