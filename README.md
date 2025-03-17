@@ -24,22 +24,21 @@ Son zamanlarda **Yapay Zeka** konularına merak sardım ve bu alanda projeler ge
 
 ---
 
- Uzmanlık Alanlarım
+ UZMANLIK ALANLARIM
 - 💻 **Backend**: Java & Spring Boot, RESTful API, Microservices  
 - 🖥️ **Frontend**: React.js, Tailwind CSS, modern UI/UX  
 - 🗄️ **Veritabanı**: MySQL, PostgreSQL
 
 ---
 
- Şu An Üzerinde Çalıştıklarım
--  **RentACar** projesinde Spring Boot kullanarak güçlü bir backend geliştiriyorum.
+    ŞU AN ÜZERİNDE ÇALIŞTIKLARIM
 -  AI odaklı küçük projeler ve deneyler yapıyorum (ML & NLP çalışmaları).
 -  Bitirme projesi için AI destekli ya da real-time sistem fikirleri araştırıyorum.
 -  Aynı zamanda C# dilini kullanarak ASP.NET ile backend bilgimi daha da geliştirmeyi planlıyorum.
 
 ---
 
-##  Kullandığım Teknolojiler
+##  KULLANDIĞIM TEKNOLOJİLER
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -51,10 +50,15 @@ Son zamanlarda **Yapay Zeka** konularına merak sardım ve bu alanda projeler ge
 
 ---
 
- Bana Ulaş
-- LinkedIn: https://www.linkedin.com/in/enes-akbulut/
-- Mail: akbltenes638@gmail.com
-
+ İLETİŞİM
+<p align="left">
+  <a href="https://www.linkedin.com/in/enes-akbulut/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:akbltenes638@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
 ---
 
 
