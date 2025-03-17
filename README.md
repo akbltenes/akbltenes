@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Selam, ben Kral!</h1>
+<h1 align="center"> Merhaba!Ben Muhammed Enes AKBULUT </h1>
 
 <p align="center">
    Full-Stack Developer | 🎓 Bilgisayar Mühendisliği Son Sınıf <br>
@@ -9,7 +9,7 @@
 
  Hakkımda
 
-Merhaba! Ben **Muhammed Enes AKBULUT**, Bilgisayar Mühendisliği son sınıf öğrencisiyim.  
+Merhaba! Ben **Bilgisayar Mühendisliği**son sınıf öğrencisiyim.  
 Yazılım dünyasına tutkuyla bağlı, sürekli gelişmeyi hedefleyen bir yazılımcıyım.
 
 **Full-Stack Developer** olarak projeler geliştiriyor ve yazılım süreçlerinin her aşamasında aktif rol alıyorum.  
