@@ -48,13 +48,6 @@ Son zamanlarda **Yapay Zeka** konularına merak sardım ve bu alanda projeler ge
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
----
-
- GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seninKullaniciAdin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seninKullaniciAdin&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
