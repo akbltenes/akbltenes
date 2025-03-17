@@ -32,9 +32,10 @@ Son zamanlarda **Yapay Zeka** konularına merak sardım ve bu alanda projeler ge
 ---
 
  Şu An Üzerinde Çalıştıklarım
-- ⚙️ **RentACar** projesinde Spring Boot kullanarak güçlü bir backend geliştiriyorum.
-- 🤖 AI odaklı küçük projeler ve deneyler yapıyorum (ML & NLP çalışmaları).
-- 💡 Bitirme projesi için AI destekli ya da real-time sistem fikirleri araştırıyorum.
+-  **RentACar** projesinde Spring Boot kullanarak güçlü bir backend geliştiriyorum.
+-  AI odaklı küçük projeler ve deneyler yapıyorum (ML & NLP çalışmaları).
+-  Bitirme projesi için AI destekli ya da real-time sistem fikirleri araştırıyorum.
+-  Aynı zamanda C# dilini kullanarak ASP.NET ile backend bilgimi daha da geliştirmeyi planlıyorum.
 
 ---
 
