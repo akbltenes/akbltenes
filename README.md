@@ -60,7 +60,7 @@ Son zamanlarda **Yapay Zeka** konularına merak sardım ve bu alanda projeler ge
 
  Bana Ulaş
 - LinkedIn: https://www.linkedin.com/in/enes-akbulut/
-- Mail: akbltenes638@gmail.@gmail.com
+- Mail: akbltenes638@gmail.com
 
 ---
 
