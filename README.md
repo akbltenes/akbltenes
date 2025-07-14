@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Hakkımda
 
-Merhaba! Ben **Bilgisayar Mühendisliği** son sınıf öğrencisiyim.  
+Merhaba! Ben **Bilgisayar Mühendisliği** mezunuyum.  
 Yazılım dünyasına tutkuyla bağlı, sürekli gelişmeyi hedefleyen bir yazılımcıyım.
 
 **Full-Stack Developer** olarak projeler geliştiriyor ve yazılım süreçlerinin her aşamasında aktif rol alıyorum.  
